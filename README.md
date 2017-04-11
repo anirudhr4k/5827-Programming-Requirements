@@ -1,7 +1,6 @@
 # 5827-Programming-Requirements [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Learning requirements for the programming team at 5827
 
-A list of interesting resources for 1418 programmers.
+A list of interesting resources for 5827 programmers.
 
 ## Required for all programmers
 These tools must be learned by all programmers on the team.
